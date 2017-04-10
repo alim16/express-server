@@ -1,0 +1,24 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "a basic express api",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alim16/express-server.git"
+  },
+  "author": "Mahamed Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alim16/express-server/issues"
+  },
+  "homepage": "https://github.com/alim16/express-server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1"
+  }
+}
